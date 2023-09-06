@@ -6,9 +6,9 @@
 
 <br/>
 
-### Live Demo 👉 [Click here]()
+### Live Demo 👉 [Click here](https://aajad-frontend-developer-drab.vercel.app/)
 
-### Backend API 👉 [Click here]()
+### Backend API 👉 [Click here](https://space-authentication.onrender.com/)
 
 <br/>
 
